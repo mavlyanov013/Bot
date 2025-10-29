@@ -1,7 +1,7 @@
 
 ## 🧩 Loyihaning Arxitektura Diagrammasi
 
-![Architecture Diagram](diagram.png)
+![Architecture Diagram](finance-bot-architecture.drawio.png)
 
 ---
 
